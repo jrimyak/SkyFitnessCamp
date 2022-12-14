@@ -103,7 +103,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: linear-gradient(#6fd1f8, #95d869);;
+		background: linear-gradient(#6fd1f8, rgb(147,212,103));;
 		overflow-x: hidden;
 	}
 
